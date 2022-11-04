@@ -1,0 +1,1 @@
+{"name":"Local: tio","url":"d:\\Learning Ngoding\\cpp\\tio.cpp","tests":[{"id":1667551680117,"input":"5\nkiri 10\nkiri 10\natas 10\natas 10\nbawah 10\n3\n15\n25\n35","output":"(-1,2)"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Learning Ngoding\\cpp\\tio.cpp","group":"local","local":true}

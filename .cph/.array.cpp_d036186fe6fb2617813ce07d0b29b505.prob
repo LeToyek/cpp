@@ -1,0 +1,1 @@
+{"name":"Local: array","url":"d:\\Learning Ngoding\\cpp\\array.cpp","tests":[{"id":1667313304959,"input":"17\n8\n1945","output":"1945\n8\n17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Learning Ngoding\\cpp\\array.cpp","group":"local","local":true}
